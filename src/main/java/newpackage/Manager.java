@@ -1,8 +1,7 @@
-
 package newpackage;
 
 
- class Manager extends Members {
+class Manager extends Members {
     private String department;
     public String getDepartment(){
 return department;
